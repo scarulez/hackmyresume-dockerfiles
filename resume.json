@@ -17,24 +17,25 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "nouchka",
-        "url": "https://github.com/nouchka",
+        "username": "scarulez",
+        "url": "https://github.com/scarulez",
         "iconClass": "fa fa-github-square"
       },
       {
         "network": "Linkedin",
-        "username": "japromis",
-        "url": "https://fr.linkedin.com/in/japromis",
+        "username": "alessandrofabiani",
+        "url": "https://www.linkedin.com/in/alessandrofabiani/",
         "iconClass": "fa fa-linkedin-square"
       }
     ]
   },
   "work": [{
-      "company": "Coop'Alpha",
-      "position": "Co-operator",
-      "startDate": "2017-09",
+      "company": "Avanade",
+	  "website": "https://www.avanade.com/",
+      "position": "Senior Consultant",
+      "startDate": "2021-09",
       "endDate": "current",
-      "summary": "Devops ecommerce magento2 working on AWS infrastructure with Ansible/Docker/GithubAction. Magento2 developper for medium/large companies.",
+      "summary": "ModernWorkplace",
       "highlights": [
         "Architecture restructuring with containers",
         "Delivery and configuration Automation",
