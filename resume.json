@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Jean-Avit Promis",
-    "label": "DEVOPS",
+    "name": "Alessandro Fabiani",
+    "label": "IT Architect",
     "summary": "**Web developer with 15+ years industry experience** specializing in ecommerce and system architecture. 37 years old.",
-    "website": "https://www.katagena.com/",
+    "website": "https://alessandro.fabiani.cc/",
     "phone": "###PHONE###",
     "email": "###EMAIL###",
-    "picture": "https://raw.githubusercontent.com/nouchka/japromis.katagena.com/master/picture.jpg",
+    "picture": "https://raw.githubusercontent.com/scarulez/hackmyresume-dockerfiles/main/resume.png",
     "location": {
-      "address": "Jean-Avit Promis\n###ADDRESS###",
-      "postalCode": "24100",
-      "city": "Bergerac",
-      "countryCode": "FR",
-      "region": "Dordogne"
+      "address": "###ADDRESS###",
+      "postalCode": "00168",
+      "city": "Roma",
+      "countryCode": "RM",
+      "region": "Italy"
     },
     "profiles": [
       {
@@ -103,20 +103,6 @@
       "studyType": "Engineer school"
     },
     {
-      "institution": "University of Marne la vallée",
-      "area": "Mathematics",
-      "startDate": "2004-10",
-      "endDate": "2005-06",
-      "studyType": "University"
-    },
-    {
-      "institution": "Lycée Jean Dautet, La Rochelle",
-      "area": "MPSI / PSI",
-      "startDate": "2001-09",
-      "endDate": "2004-06",
-      "studyType": "CPGE"
-    },
-    {
       "institution": "Lycée Jean Macé",
       "area": "Scientific",
       "startDate": "1998-09",
@@ -161,10 +147,9 @@
     {
       "name": "Langages",
       "keywords": [
-        "PHP",
-        "Javascript",
-        "JAVA",
-        ".net"
+        "Powershell",
+        "Batch",
+        "VBS"
       ]
     }
   ],
@@ -181,7 +166,7 @@
       "name": "Sustainable development/Permaculture"
     },
     {
-      "name": "Rugby",
+      "name": "Motorsport",
       "summary": ""
     },
     {
@@ -196,25 +181,14 @@
   ],
   "languages": [
     {
-      "language": "French",
+      "language": "Italian",
       "level": "Native",
       "fluency": "Native"
     },
     {
       "language": "English",
-      "level": "TOEIC 915",
-      "fluency": "TOEIC 915"
-    },
-    {
-      "language": "German",
-      "level": "Moderate",
-      "fluency": "Moderate",
-      "years": 7
-    },
-    {
-      "language": "Swedish",
-      "level": "Beginner",
-      "fluency": "Beginner"
+      "level": "Advanced",
+      "fluency": "Advanced"
     }
   ]
 }
